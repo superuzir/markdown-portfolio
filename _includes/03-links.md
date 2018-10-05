@@ -1,1 +1,1 @@
-https://example.com
+[John Smith](https://example.com)
